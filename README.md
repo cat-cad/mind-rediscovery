@@ -8,4 +8,4 @@
 
 ...
 
-Mind proguamming project.
+An open project for mind programming.
